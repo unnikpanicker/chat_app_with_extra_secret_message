@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33427596289",
+    "project_id": "rn-chat-with-me",
+    "storage_bucket": "rn-chat-with-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33427596289:android:e2aed997f557bedfdd4c00",
+        "android_client_info": {
+          "package_name": "com.worksforu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33427596289-g82rn9015as10bflf92khi79a0r6tt1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTWutYb56rAqQjRsGuOg6u0lpy1_F7dlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33427596289-g82rn9015as10bflf92khi79a0r6tt1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
